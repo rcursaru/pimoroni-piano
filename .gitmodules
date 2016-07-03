@@ -1,0 +1,3 @@
+[submodule "gitupdater"]
+	path = gitupdater
+	url = https://github.com/rcursaru/gitupdater.git
